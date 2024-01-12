@@ -1,6 +1,6 @@
 {% set name = "odbc2parquet" %}
 {% set version = "4.1.1" %}
-{% set build_num = 0 %}
+{% set build_num = 1 %}
 
 package:
   name: {{ name|lower }}
